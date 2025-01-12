@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hola mundo! 🌎
+Me llamo Rosa y vivo en el Asturias ⛰️
 
-<!--
-**Angelica-2025/Angelica-2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍🎓Actualmente curso un programa como:
+Desarrollador Junior FullStack Developer en Factoría F5. Un Bootcamp intenso de 7 meses donde adquiero los conocimientos necesarios para el uso de tecnologías y frameworks modernos. 💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+🚵‍♀️Me gusta  probar cosas nuevas, aprender y explorar nuevos caminos. A pesar de haber trabajado muchos años en el sector de la hostelería, considero una nueva oportunidad de crecimiento la aventura de embarcarme en un nuevo camino como es el de la tecnología. 
+
+🏋️‍♀️🍳🧘‍♀️Soy apasionada del deporte en general, puesto que me permite mantener un estilo de vida saludable cuerpo-mente. 
+
+🧗‍♀️ Desarrollar dieferntes habilidades a lo largo de la vida me ha permitido crecer y creer en la capacidad de que la meta es cuestión de foco y determinación.
+
+## ✅Mis competencias
+* BHCS
+- Certificado TCP
+* Nivel Inglés B1
+
+
+## 🛠️Mis habilidades 
+
+* Habilidades comerciales
++ Empatía
+- Trabajo en equipo
+* Pensamiento crítico
+- Capacidad de adaptación
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+
+
+## 🛠 Skills
+
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,gmail,linkedin,tailwind,vscode,npm,nodejs)](https://skillicons.dev)
+
+
+## Lessons Learned
+A día de hoy sigo reteneindo pequeñas lecciones fundamentales y aquellos conocimientos que voy  adquiriendo durante el proceso de desarrollo de los diferentes proyectos. Algunos obstáculos que me he encontrado han sido el entendimiento del lenguaje como programador, ya que contiene vocabulario específico. Sin embargo, obtener un nivel intermedio del inglés me ha ayudado mucho a comprender más rápidamente su estructura. 
+Intento llevar un orden a la hora de proceder con cada proyecto. Realizo apuntes, esquemas y me documento para visualizar el trabajo final. 
