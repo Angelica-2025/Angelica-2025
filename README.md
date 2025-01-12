@@ -30,6 +30,10 @@ Desarrollador Junior FullStack Developer en Factoría F5. Un Bootcamp intenso de
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
+## 📊 GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angelica-2025&theme=default)
+
 
 ## 🧩Current Stack 
 Conocimientos adquiridos:
@@ -44,7 +48,7 @@ Conocimientos adquiridos:
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,gmail,linkedin,tailwind,vscode,npm,nodejs)](https://skillicons.dev)
 
-## Lessons Learned
+## 📝Lessons Learned
 A día de hoy sigo reteneindo pequeñas lecciones fundamentales y aquellos conocimientos que voy  adquiriendo durante el proceso de desarrollo de los diferentes proyectos. Algunos obstáculos que me he encontrado han sido el entendimiento del lenguaje como programador, ya que contiene vocabulario específico. Sin embargo, obtener un nivel intermedio del inglés me ha ayudado mucho a comprender más rápidamente su estructura. 
 Intento llevar un orden a la hora de proceder con cada proyecto. Realizo apuntes, esquemas y me documento para visualizar el trabajo final. 
 
