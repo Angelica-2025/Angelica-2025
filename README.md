@@ -40,3 +40,12 @@ Desarrollador Junior FullStack Developer en Factoría F5. Un Bootcamp intenso de
 ## Lessons Learned
 A día de hoy sigo reteneindo pequeñas lecciones fundamentales y aquellos conocimientos que voy  adquiriendo durante el proceso de desarrollo de los diferentes proyectos. Algunos obstáculos que me he encontrado han sido el entendimiento del lenguaje como programador, ya que contiene vocabulario específico. Sin embargo, obtener un nivel intermedio del inglés me ha ayudado mucho a comprender más rápidamente su estructura. 
 Intento llevar un orden a la hora de proceder con cada proyecto. Realizo apuntes, esquemas y me documento para visualizar el trabajo final. 
+
+## 🧩Current Stack 
+Conocimientos adquiridos:
+
+ - Diseño web responsive e interfaces de usuario dinámicas.
+ * Desarrollo web fronted.
+ - Gestión de bases de datos e integración de API´s.
+ * Métdos de trabajo ágiles.
+ - Herramientas de trabajo en equipo.
