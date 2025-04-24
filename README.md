@@ -49,6 +49,6 @@ Conocimientos adquiridos:
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,gmail,linkedin,tailwind,vscode,npm,nodejs)](https://skillicons.dev)
 
 ## 📝Lessons Learned
-A día de hoy sigo reteneindo pequeñas lecciones fundamentales y aquellos conocimientos que voy  adquiriendo durante el proceso de desarrollo de los diferentes proyectos. Algunos obstáculos que me he encontrado han sido el entendimiento del lenguaje como programador, ya que contiene vocabulario específico. Sin embargo, obtener un nivel intermedio del inglés me ha ayudado mucho a comprender más rápidamente su estructura. 
-Intento llevar un orden a la hora de proceder con cada proyecto. Realizo apuntes, esquemas y me documento para visualizar el trabajo final. 
+Reteniendo lecciones y conocimientos adquiridos durante el desarrollo del programa Bootcamp F5. Algunos obstáculos como principiante en este mundo del programador ha sido el bloqueo de no entenderlo todo a la primera.. y algún que otro pensamiento intrusivo.., sin embargo, obtener un nivel intermedio del inglés me ha generado confianza e impulsado para comprender más rápidamente su estructura. 
+Intento llevar un orden a la hora de proceder con cada proyecto: me documento, analizo, realizo apuntes, esquemas..  Me permite fluir y obtener un buen reultado final. 
 
