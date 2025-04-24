@@ -1,5 +1,5 @@
 ## Hola mundo! 🌎
-Me llamo Rosa y vivo en el Asturias ⛰️
+Me llamo Rosa y resido en Villaviciosa - Asturias ⛰️
 
 👩‍🎓Actualmente curso un programa como:
 Desarrollador Junior FullStack Developer en Factoría F5. Un Bootcamp intenso de 7 meses donde adquiero los conocimientos necesarios para el uso de tecnologías y frameworks modernos. 💻
