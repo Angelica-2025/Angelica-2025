@@ -10,7 +10,7 @@ Desarrollador Junior FullStack Developer en Factoría F5. Un Bootcamp intenso de
 
 🏋️‍♀️🍳🧘‍♀️Soy apasionada del deporte en general, puesto que me permite mantener un estilo de vida saludable cuerpo-mente. 
 
-🧗‍♀️ Desarrollar dieferntes habilidades a lo largo de la vida me ha permitido crecer y creer en la capacidad de que la meta es cuestión de foco y determinación.
+🧗‍♀️ Desarrollar dieferntes habilidades a lo largo de la vida me ha permitido crecer y creer que la meta solo es cuestión de foco y determinación.
 
 ## ✅Mis competencias
 * BHCS
